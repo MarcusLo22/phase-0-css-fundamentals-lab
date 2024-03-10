@@ -3,3 +3,28 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: red;
+}
+#featured-property p {
+  width: 800px;
+  margin: 20px auto;
+  text-align: center;
+}
+#featured-property p.caption {
+  font-size: 14px;
+  text-align: center;
+}
+.navbar a {
+  display: inline-block;
+  padding: 10px;
+  background-color: grey;
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+header {
+  text-align: center;
+}
